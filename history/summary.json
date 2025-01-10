@@ -22,7 +22,7 @@
     "url": "https://blog.patrik.cc",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "it-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 191,
     "timeMonth": 381,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-10": 0
+    }
   },
   {
     "name": "URL-Shortener",
