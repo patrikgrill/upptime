@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 107,
-    "timeWeek": 144,
-    "timeMonth": 159,
+    "timeDay": 102,
+    "timeWeek": 136,
+    "timeMonth": 155,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "it-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 267,
-    "timeWeek": 201,
-    "timeMonth": 378,
+    "timeDay": 214,
+    "timeWeek": 205,
+    "timeMonth": 377,
     "timeYear": 256,
-    "dailyMinutesDown": {
-      "2025-01-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "URL-Shortener",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 137,
+    "timeDay": 125,
     "timeWeek": 122,
-    "timeMonth": 149,
+    "timeMonth": 148,
     "timeYear": 143,
     "dailyMinutesDown": {}
   }
