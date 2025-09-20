@@ -4,9 +4,9 @@
     "url": "https://patrik.cc",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "patrik-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 165,
     "timeMonth": 346,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-20": 0
+    }
   },
   {
     "name": "IT-Blog",
@@ -40,9 +42,9 @@
     "url": "https://pat.xyz",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 170,
     "timeMonth": 659,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-20": 0
+    }
   }
 ]
