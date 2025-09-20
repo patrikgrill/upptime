@@ -4,19 +4,19 @@
     "url": "https://patrik.cc",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "patrik-cc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 198,
-    "timeDay": 227,
+    "timeDay": 195,
     "timeWeek": 165,
-    "timeMonth": 346,
+    "timeMonth": 341,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-09-20": 0
+      "2025-09-20": 34
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://pat.xyz",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 249,
-    "timeWeek": 170,
-    "timeMonth": 659,
+    "timeDay": 255,
+    "timeWeek": 182,
+    "timeMonth": 647,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-09-20": 0
+      "2025-09-20": 33
     }
   }
 ]
