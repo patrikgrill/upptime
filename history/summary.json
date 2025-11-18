@@ -4,18 +4,19 @@
     "url": "https://patrik.cc",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "patrik-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 194,
-    "timeWeek": 169,
-    "timeMonth": 184,
+    "timeDay": 205,
+    "timeWeek": 175,
+    "timeMonth": 185,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-20": 34
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://pat.xyz",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 154,
-    "timeWeek": 201,
-    "timeMonth": 194,
+    "timeDay": 152,
+    "timeWeek": 195,
+    "timeMonth": 193,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-20": 33
     }
   }
