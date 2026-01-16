@@ -44,9 +44,9 @@
     "url": "https://pat.xyz",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -56,6 +56,7 @@
     "timeMonth": 148,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2026-01-16": 0,
       "2025-11-18": 129,
       "2025-09-20": 33
     }
