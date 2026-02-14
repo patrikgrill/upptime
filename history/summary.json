@@ -4,16 +4,16 @@
     "url": "https://patrik.cc",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "patrik-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.93%",
     "time": 192,
-    "timeDay": 122,
-    "timeWeek": 171,
-    "timeMonth": 176,
+    "timeDay": 128,
+    "timeWeek": 166,
+    "timeMonth": 174,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-02-04": 49,
@@ -30,9 +30,9 @@
     "slug": "it-blog",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 169,
@@ -40,7 +40,7 @@
     "timeMonth": 251,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-02-14": 0
+      "2026-02-14": 14
     }
   },
   {
