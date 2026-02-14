@@ -28,18 +28,20 @@
     "url": "https://blog.patrik.cc",
     "icon": "https://blog.patrik.cc/favicon.ico",
     "slug": "it-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 241,
-    "timeWeek": 237,
-    "timeMonth": 256,
+    "timeDay": 169,
+    "timeWeek": 220,
+    "timeMonth": 251,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-14": 0
+    }
   },
   {
     "name": "URL-Shortener",
